@@ -24,8 +24,8 @@
 🍀 Passionate about **Artificial Intelligence · Data Science · Machine Learning**  <br>
 💼 In progress **Python · Flutter · Calculus · Data Analysis · Programming **  <br>
 🧠 Currently studying **Deep Learning & Software Applications**  <br>
-🎯 2027-2100 Goal → **Build and publish AI-based applications on robot**  <br>
-☕ Motto → *“Focus on one thing at a time instead of doing many things at once.”*
+🎯 2027-2100 Goal → **Super car**  <br>
+
 
 
 
@@ -93,27 +93,28 @@
 
 ---
 
-## 🚀 Dự án nổi bật  
+## 🚀 Featured Projects  
 
 <div align="center">
 
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img height="150" src="https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats&theme=tokyonight" />
+<a href="https://github.com/Minhdung-21/Penguin-AI">
+  <img height="150" src="https://github-readme-stats.vercel.app/api/pin/?username=Minhdung-21&repo=Penguin-AI&theme=tokyonight" />
 </a>
 
-<a href="https://github.com/vercel/next.js">
-  <img height="150" src="https://github-readme-stats.vercel.app/api/pin/?username=vercel&repo=next.js&theme=tokyonight" />
+<a href="https://github.com/Minhdung-21/ROBOT">
+  <img height="150" src="https://github-readme-stats.vercel.app/api/pin/?username=Minhdung-21&repo=ROBOT&theme=tokyonight" />
 </a>
 
-<a href="https://github.com/flutter/flutter">
-  <img height="150" src="https://github-readme-stats.vercel.app/api/pin/?username=flutter&repo=flutter&theme=tokyonight" />
+<a href="https://github.com/Minhdung-21/PROJECT-UNETI">
+  <img height="150" src="https://github-readme-stats.vercel.app/api/pin/?username=Minhdung-21&repo=PROJECT-UNETI&theme=tokyonight" />
 </a>
 
-<a href="https://github.com/pandas-dev/pandas">
-  <img height="150" src="https://github-readme-stats.vercel.app/api/pin/?username=pandas-dev&repo=pandas&theme=tokyonight" />
+<a href="https://github.com/Minhdung-21/Minhdung-AI">
+  <img height="150" src="https://github-readme-stats.vercel.app/api/pin/?username=Minhdung-21&repo=Minhdung-AI&theme=tokyonight" />
 </a>
 
 </div>
+
 
 ---
 
