@@ -20,12 +20,12 @@
 
 ## 🧠 About Me  
 
-🎓 Student at **UNETI – University of Economics & Technology for Industries**  
-🧩 Passionate about **Artificial Intelligence · Data Science · Machine Learning**  
-💼 Skilled in **Python · Flutter · Web Development · Data Analytics**  
-📈 Currently exploring **Deep Learning & LLM Applications**  
-🎯 Goal 2025 → Build and publish **AI-powered apps** on CH Play  
-☕ Motto → *“Think deeply. Code smart. Learn endlessly.”*
+🎓 Student at **UNETI – University of Economics & Industrial Technology**
+🧩 Passionate about **Artificial Intelligence · Data Science · Machine Learning**
+💼 Proficient in **Python · Flutter · Calculus · Data Analysis** (future)
+📈 Currently studying **Deep Learning & Software Applications
+🎯 Goal 2025 → Build and release **AI applications** on CH Play
+☕ Motto → *“Focus on one thing at a time instead of doing many things at the same time.”*
 
 ---
 
