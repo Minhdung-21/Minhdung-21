@@ -20,7 +20,7 @@
 
 ## 🧠 About Me  
 
-🎓 Student at **UNETI – University of Economics and Technology for Industries**  <br>
+🎓 Student at **University of Economics – Technology for Industries**  <br>
 🍀 Passionate about **Artificial Intelligence · Data Science · Machine Learning**  <br>
 💼 In progress **Python · Flutter · Calculus · Data Analysis · Programming **  <br>
 🧠 Currently studying **Deep Learning & Software Applications**  <br>
