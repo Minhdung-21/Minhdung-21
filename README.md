@@ -3,6 +3,13 @@
   <img src="https://raw.githubusercontent.com/Minhdung-21/Minhdung-21/main/assets/banner_galaxy_glow.svg" alt="Galaxy Glow Banner"/>
 </p>
 
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Minhdung-21" alt="Profile Views" />
+</p>
+
+
+
+
 <!-- Profile Badges -->
 <p align="center">
   <a href="https://github.com/" target="_blank">
