@@ -5,9 +5,15 @@
 
 <!-- Profile Badges -->
 <p align="center">
-  <img src="https://img.shields.io/badge/Profile%20Level-A%2B-brightgreen?style=for-the-badge&logo=github&logoColor=white" />
-  <img src="https://img.shields.io/badge/AI%20Developer-Active-blue?style=for-the-badge&logo=tensorflow&logoColor=white" />
-  <img src="https://img.shields.io/badge/Data%20Scientist-Professional-ff69b4?style=for-the-badge&logo=pandas&logoColor=white" />
+  <a href="https://github.com/" target="_blank">
+    <img src="https://img.shields.io/badge/Profile%20Level-A%2B-brightgreen?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+  <a href="https://www.tensorflow.org/" target="_blank">
+    <img src="https://img.shields.io/badge/AI%20Developer-Active-blue?style=for-the-badge&logo=tensorflow&logoColor=white" />
+  </a>
+  <a href="https://pandas.pydata.org/" target="_blank">
+    <img src="https://img.shields.io/badge/Data%20Scientist-Professional-ff69b4?style=for-the-badge&logo=pandas&logoColor=white" />
+  </a>
 </p>
 
 ---
@@ -64,12 +70,23 @@
 ## ⚙️ Dev Tools & Frameworks  
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white"/>
-  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
-  <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white"/>
+  <a href="https://flutter.dev/" target="_blank">
+    <img src="https://img.shields.io/badge/Flutter-0A84FF?style=for-the-badge&logo=flutter&logoColor=white"/>
+  </a>
+  <a href="https://react.dev/" target="_blank">
+    <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black"/>
+  </a>
+  <a href="https://www.docker.com/" target="_blank">
+    <img src="https://img.shields.io/badge/Docker-00C8FF?style=for-the-badge&logo=docker&logoColor=white"/>
+  </a>
+  <a href="https://git-scm.com/" target="_blank">
+    <img src="https://img.shields.io/badge/Git-FF3B30?style=for-the-badge&logo=git&logoColor=white"/>
+  </a>
+  <a href="https://code.visualstudio.com/" target="_blank">
+    <img src="https://img.shields.io/badge/VS%20Code-5D3FD3?style=for-the-badge&logo=visualstudiocode&logoColor=white"/>
+  </a>
 </p>
+
 
 ---
 
