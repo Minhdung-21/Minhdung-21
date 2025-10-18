@@ -3,10 +3,6 @@
   <img src="https://raw.githubusercontent.com/Minhdung-21/Minhdung-21/main/assets/banner_galaxy_glow.svg" alt="Galaxy Glow Banner"/>
 </p>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Minhdung-21" alt="Profile Views" />
-</p>
-
 
 
 
@@ -175,4 +171,9 @@
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&height=120&color=0:5D3FD3,100:00C8FF&section=footer"/>
+</p>
+
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Minhdung-21&label=👀%20PROFILE%20VIEWS&color=7F00FF&style=for-the-badge&labelColor=00FFFF" alt="Profile Views"/>
 </p>
