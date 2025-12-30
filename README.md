@@ -27,7 +27,7 @@
 🍀 Passionate about **Artificial Intelligence · Data Science · Machine Learning**  <br>
 💼 In progress **Python · Flutter · Calculus · Data Analysis · Programming **  <br>
 🧠 Currently studying **Deep Learning & Software Applications**  <br>
-🎯 2027-2100 Goal → **Super car**  <br>
+🎯 2027-2100 Goal → **Data engineering**  <br>
 
 
 
